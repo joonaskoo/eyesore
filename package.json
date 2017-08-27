@@ -1,0 +1,35 @@
+{
+    "name": "eyesore",
+    "displayName": "Eyesore",
+    "description": "A theme for Visual Studio Code",
+    "version": "1.0.0",
+    "publisher": "joonaskivikunnas",
+    "homepage": "https://github.com/joonaskoo/eyesore",
+    "bugs": {
+        "url": "https://github.com/joonaskoo/eyesore/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "author": {
+        "name": "Joonas K"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joonaskoo/eyesore.git"
+    },
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eyesore",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eyesore.json"
+            }
+        ]
+    }
+}
