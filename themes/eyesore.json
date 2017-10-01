@@ -69,6 +69,8 @@
     "tab.activeBackground": "#606060",
     "tab.activeForeground": "#c6c6c6",
     "tab.border": "#1c1c1c",
+    "tab.activeBorder": "#b2b2b2",
+    "tab.unfocusedActiveBorder": "#b2b2b2",
     "tab.inactiveBackground": "#4c4c4c",
     "tab.inactiveForeground": "#c6c6c6",
     "tab.unfocusedActiveForeground": "#303030",
@@ -99,7 +101,19 @@
     "editorCodeLens.foreground": "#535353",
     "editorBracketMatch.background": "#FFB283",
     "editorBracketMatch.border": "#CC4E00",
+
     "editorOverviewRuler.border": "#868686",
+    "editorOverviewRuler.findMatchForeground": "#ccda84",
+    "editorOverviewRuler.rangeHighlightForeground": "#fff9e8",
+    "editorOverviewRuler.selectionHighlightForeground": "#c1dde7",
+    "editorOverviewRuler.wordHighlightForeground": "#d3e8da",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#bde8cb",
+    "editorOverviewRuler.modifiedForeground": "#448AFF",
+    "editorOverviewRuler.addedForeground": "#8BC34A",
+    "editorOverviewRuler.deletedForeground": "#F44336",
+    "editorOverviewRuler.errorForeground": "#744040",
+    "editorOverviewRuler.warningForeground": "#746534",
+    "editorOverviewRuler.infoForeground": "#587e99",
 
     "editorError.foreground": "#e50d0d",
     "editorError.border": "#f4f4f4",
@@ -150,7 +164,7 @@
 
     // Base colors
     "focusBorder": "#ffffff",
-    "foreground": "#c6c6c6",
+    "foreground": "#767676",
     "widget.shadow": "#bcbcbc",
     "selection.background": "#9cc9da",
     "errorForeground": "#950007",
@@ -241,6 +255,9 @@
     "welcomePage.buttonBackground": "#c1c1c1",
     "welcomePage.buttonHoverBackground": "#a0a0a0",
     "walkThrough.embeddedEditorBackground": "#c1c1c1"
+
+    // Title bar (used only on macOS)
+    //titleBar.border": "",
 
     // High contrast mode (not in use)
     //"contrastActiveBorder": "#FF6200",
