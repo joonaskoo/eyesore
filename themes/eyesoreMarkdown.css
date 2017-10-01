@@ -1,0 +1,17 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #4B4B4B;
+}
+
+p {
+  color: #4B4B4B;
+}
+
+.vscode-dark code > div {
+  background-color: #E4E4E4;
+  color: #4B4B4B;
+}

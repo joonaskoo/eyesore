@@ -2,7 +2,7 @@
     "name": "eyesore",
     "displayName": "Eyesore",
     "description": "A theme for Visual Studio Code",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "joonaskivikunnas",
     "homepage": "https://github.com/joonaskoo/eyesore",
     "bugs": {
@@ -18,7 +18,7 @@
     },
     "icon": "images/icon.png",
     "engines": {
-        "vscode": "^1.15.0"
+        "vscode": "^1.16.1"
     },
     "categories": [
         "Themes"
